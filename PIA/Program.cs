@@ -1,10 +1,12 @@
-﻿namespace Program
+﻿using System;
+namespace Program
 {
     class Program
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hello, World!");
+            Console.WriteLine("Hola Mundo");
         }
     }
 }
