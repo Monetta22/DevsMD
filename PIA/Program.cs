@@ -7,6 +7,7 @@ namespace Program
         {
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hola Mundo");
+            Console.WriteLine("TEST-");
         }
     }
 }
