@@ -1,5 +1,4 @@
-﻿using System;
-namespace Program
+﻿namespace Program
 {
     class Program
     {
@@ -8,6 +7,7 @@ namespace Program
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Hola Mundo");
             Console.WriteLine("TEST-");
+            Console.WriteLine();
         }
     }
 }
