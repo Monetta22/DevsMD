@@ -1,6 +1,6 @@
 ﻿using MySql.Data.MySqlClient;
 
-namespace MiProyecto.Database
+namespace PIA.Database
 {
     public class DatabaseConnection
     {
